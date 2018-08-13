@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 2,
+    "uniqCompNum": 3,
     "versionPublish": "4.8.1"
   },
   "pages": {
@@ -63,6 +63,36 @@
               "color": "#a8d0ea"
             }
           }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/suggest-me-some-namesplease-mine-are-damn-cringy-540x810.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2"
         }
       ]
     }
